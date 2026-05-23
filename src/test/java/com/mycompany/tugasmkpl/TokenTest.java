@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TokenTest {
+    //comment untuk tugas MKPL
 
     @Test
     public void testPerhitunganHargaToken() {
